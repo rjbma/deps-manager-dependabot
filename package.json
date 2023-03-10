@@ -9,12 +9,8 @@
   },
   "scripts": {},
   "dependencies": {
-    "got": "12.0.0",
-    "helmet": "6.0.0"
-  },
-  "devDependencies": {},
-  "main": "index.js",
-  "author": "",
-  "license": "ISC",
-  "description": ""
+    "express-openapi-validator": "^5.0.1",
+    "got": "^12.5.3",
+    "react-scripts": "^5.0.1"
+  }
 }
